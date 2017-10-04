@@ -33,8 +33,8 @@ public class mym {
         return min (min,c);
 
     }
-    public static int isOdd(int a) {
-        return(a%2!=0);
+    public static boolean isOdd(int a) {
+        return(a%2 != 0);
     }
 
 }
