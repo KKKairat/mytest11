@@ -5,5 +5,14 @@ public class hello {
         System.out.println("Hello");
         System.out.println("Жұмыстың мақсаты");
         System.out.println("GitHub жұмыс істеу");
+
+        int a= mym.kvadrat(5);
+        int b = mym.kub(5);
+
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+
+        System.out.println(mym.max(8,9));
+
     }
 }
