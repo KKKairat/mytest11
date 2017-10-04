@@ -28,7 +28,7 @@ public class mym {
 
     }
 
-    public static int min (int a, int b,int c){
+    public static int min3 (int a, int b,int c){
         int min = min(a,b);
         return min (min,c);
 
